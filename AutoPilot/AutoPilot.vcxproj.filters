@@ -27,9 +27,24 @@
     <ClInclude Include="SensorHandler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="FlightProcedures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mateu\Downloads\AutoPilot-master\AutoPilot\GPS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mateu\Downloads\AutoPilot-master\AutoPilot\GPSData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SensorHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FlightProcedures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mateu\Downloads\AutoPilot-master\AutoPilot\GPS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
